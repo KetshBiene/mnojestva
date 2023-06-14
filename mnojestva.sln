@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mnojestva", "mnojestva\mnojestva.csproj", "{B71BC446-FA64-4EC5-B626-31B53C101A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B71BC446-FA64-4EC5-B626-31B53C101A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71BC446-FA64-4EC5-B626-31B53C101A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71BC446-FA64-4EC5-B626-31B53C101A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71BC446-FA64-4EC5-B626-31B53C101A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF5CBE1-AE89-4EF7-BB4C-DB51A0A9AD27}
+	EndGlobalSection
+EndGlobal
